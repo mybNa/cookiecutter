@@ -13,3 +13,6 @@ http://flask-marshmallow.readthedocs.io/en/latest/
 > Generate marshmallow Schemas from your models using ModelSchema.
 
 > You can now use your schema to dump and load your ORM objects.
+
+
+https://github.com/sloria/cookiecutter-flask
