@@ -16,3 +16,7 @@ http://flask-marshmallow.readthedocs.io/en/latest/
 
 
 https://github.com/sloria/cookiecutter-flask
+
+
+# an excellent blog post for implementing a test framework with flask and sqlalchemy
+http://alexmic.net/flask-sqlalchemy-pytest/
